@@ -1,6 +1,6 @@
 # Ruboty::Telegram
 
-Discord adapter for [Ruboty](https://github.com/r7kamura/ruboty).
+Telegram adapter for [Ruboty](https://github.com/r7kamura/ruboty).
 
 ## Install
 
